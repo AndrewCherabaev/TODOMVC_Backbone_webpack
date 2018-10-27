@@ -1,5 +1,5 @@
 import {Collection} from 'backbone';
-import LocalStorage from 'backbone.localstorage';
+import {LocalStorage} from 'backbone.localstorage';
 
 import {Todo} from './../models/todo.js';
 
